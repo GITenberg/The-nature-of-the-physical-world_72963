@@ -1,0 +1,31 @@
+_repo: The-nature-of-the-physical-world_72963
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eddington, Arthur Stanley, Sir
+    alias: Eddington, A. S. (Arthur Stanley), Sir
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '34163'
+    url: http://www.gutenberg.org/2009/agents/34163
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Eddington
+description: ''
+gutenberg_issued: '2024-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72963'
+language: en
+pgterms:marc904: https://archive.org/details/natureofphysical00eddi
+pgterms:marc905: 20240115091104eddington
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The nature of the physical world
+url: http://www.gutenberg.org/ebooks/72963
